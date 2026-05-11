@@ -1,16 +1,26 @@
-## Hi there 👋
+# Aarav Jolly
 
-<!--
-**aaravjolly/aaravjolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Triple major in Math, Physics, and CS at UC Davis. Currently researching singularity 
+formation in Yang–Mills flow on Calabi–Yau manifolds.
 
-Here are some ideas to get you started:
+I like problems that sit at the intersection of geometry, physics, and computation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Research:** Yang–Mills flow & geometric PDEs (UC Davis)  
+**Interests:** Geometric deep learning, mathematical physics, Bayesian methods  
+
+
+---
+
+### Tech
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact)
