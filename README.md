@@ -6,7 +6,7 @@ formation in Yang–Mills flow on Calabi–Yau manifolds.
 I like problems that sit at the intersection of geometry, physics, and computation.
 
 **Research:** Yang–Mills flow & geometric PDEs (UC Davis)  
-**Interests:** Geometric deep learning, mathematical physics, Bayesian methods  
+**Interests:** Geometric deep learning, mathematical physics, ML/RL  
 
 
 ---
